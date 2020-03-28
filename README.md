@@ -1,4 +1,4 @@
-# Data science portfolio by Diogo Sá
+# Diogo's Data Science Portfolio
 
 This portfolio is a compilation of ABCS.
 
