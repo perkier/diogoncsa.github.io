@@ -4,7 +4,7 @@ Table of contents
 
 <!--ts-->
    * [Energy Related projects](#Energy Related projects)
-   * [TAeronautics Projects](#table-of-contents)
+   * [Aeronautics Projects](#table-of-contents)
 
    * Specific Tools
       * [Reinforcement Learning](#Micro-Grids Project)
