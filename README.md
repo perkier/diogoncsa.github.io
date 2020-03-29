@@ -1,5 +1,5 @@
 
-# Energy Related projects.
+# Energy Related projects
 I am a climate activist. (...)
 
 
@@ -65,7 +65,7 @@ Coded in python and used Data-Science libraries such as pandas and numpy, machin
 
 
 
-# Aeronautics Projects.
+# Aeronautics Projects
 
 Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
 
