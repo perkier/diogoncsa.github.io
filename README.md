@@ -2,7 +2,7 @@
 # Table of contents
 
 <!--ts-->
-   * [Energy Related projects](#Energy-Related-projects)
+   * [Energy Related projects](#-Energy-Related-projects)
    * [Aeronautics Projects](#Aeronautics-Projects)
 
    * Specific Tools
