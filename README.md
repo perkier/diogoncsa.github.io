@@ -67,6 +67,8 @@ Coded in python and used Data-Science libraries such as pandas and numpy, machin
 
 # Aeronautics Projects.
 
+Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
+
 ## Airfoil Performance 
 Data exploration and analysis; Automation;
 
