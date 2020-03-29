@@ -154,4 +154,6 @@ The grid independence needs to be studied in order to minimize the impact of the
 ---
 
 ### Lets talk
-I welcome feedback and suggestions! I’d love to hear from you about new ideas on how to implement innovative engineering. Contact me at diogoncsa@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diogoncsa/).
+I welcome feedback and suggestions! 
+I’d love to hear from you about new ideas on how to implement innovative ideas. 
+Contact me at diogoncsa@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diogoncsa/).
