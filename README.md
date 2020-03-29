@@ -109,7 +109,7 @@ Data exploration and analysis; Automation;
 
 ### Project Info
 
-[Avito demand prediction](https://www.kaggle.com/c/avito-demand-prediction).
+[Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics).
 
 ### Tools Used
 
