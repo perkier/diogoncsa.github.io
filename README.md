@@ -1,4 +1,24 @@
 
+Table of contents
+=================
+
+<!--ts-->
+   * [Energy Related projects](#Energy Related projects)
+   * [TAeronautics Projects](#table-of-contents)
+
+   * Specific Tools
+      * [Reinforcement Learning](#Micro-Grids Project)
+      * [Deep Learning Regression](#CFD Machine Learning Module)
+      * [Machine Learning Regression](#CFD Machine Learning Module)
+      * [Data Visualization](#Airfoil Performance)
+      * [Data Manipulation](#Promoting Energy and Economic Empowerment with Python)
+      * [Automation](#Airfoil Performance)
+      * [Tests](#tests)
+
+<!--te-->
+
+
+
 # Energy Related projects
 I am a climate activist. (...)
 
