@@ -2,9 +2,6 @@
 Table of contents
 =================
 
-
-➥ ./gh-md-toc https://https://github.com/perkier/perkier.github.io/master/README.md
-
 <!--ts-->
    * [Energy Related projects](#Energy Related projects)
    * [TAeronautics Projects](#table-of-contents)
