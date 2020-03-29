@@ -1,6 +1,5 @@
 
-Table of contents
-=================
+# Table of contents
 
 <!--ts-->
    * [Energy Related projects](#Energy-Related-projects)
@@ -21,12 +20,11 @@ Table of contents
 
 
 # Energy Related projects
-=================
 I am a climate activist. (...)
 
 
 ## Promoting Energy and Economic Empowerment with Python
-=================
+
 Data Transformation and Machine learning
 
 ### Project Info
@@ -49,7 +47,7 @@ Renewable energies can be a great way to empower new generations of people. Savi
 
 
 ## CFD Machine Learning Module 
-=================
+
 Data Science tools to handle and prepare the data; Machine Learning Regression; Deep Learning Regression;
 
 ### Project Info
@@ -76,7 +74,7 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 
 
 ## Micro-Grids Project
-=================
+
 Data Science tools to handle and prepare the data; Monte Carlo Method Optimization; Deep Reinforcement Learning;
 
 ### Project Info
@@ -100,7 +98,6 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 ---
 
 # Aeronautics Projects
-=================
 
 Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
 
