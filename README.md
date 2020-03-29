@@ -2,11 +2,11 @@
 # Table of contents
 
 <!--ts-->
-   * [Energy Related projects](#Energy-Related-projects)
-   * [Aeronautics Projects](#Aeronautics-Projects)
+   * [Energy Related projects](#energy-related-projects)
+   * [Aeronautics Projects](#aeronautics-projects)
    * [Table of Contents](#table-of-contents)
 
-   * Specific Tools
+   * Specific Tools:
       * [Reinforcement Learning](#Micro-Grids-Project)
       * [Deep Learning Regression](#CFD-Machine-Learning-Module)
       * [Machine Learning Regression](#CFD-Machine-Learning-Module)
@@ -20,7 +20,7 @@
 ---
 
 
-# Energy Related projects
+# Energy Related Projects
 I am a climate activist. (...)
 
 
