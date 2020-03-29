@@ -17,8 +17,9 @@ Table of contents
 
 <!--te-->
 
+---
 
-=================
+
 # Energy Related projects
 I am a climate activist. (...)
 
@@ -92,7 +93,8 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 
 
 
-=================
+---
+
 # Aeronautics Projects
 
 Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
