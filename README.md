@@ -2,9 +2,14 @@
 # Table of contents
 
 <!--ts-->
-   * [Energy Related projects](#energy-related-projects)
-   * [Aeronautics Projects](#aeronautics-projects)
-   * [Table of Contents](#table-of-contents)
+   * [Energy Related projects:](#energy-related-projects)
+      * [Promoting Energy and Economic Empowerment with Python](#promoting-energy-and-economic-empowerment-with-python)
+      * [Reinforcement Learning](#micro-grids-project)
+      * [CFD Machine Learning Module](#cfd-machine-learning-module)
+      
+   * [Aeronautics Projects:](#aeronautics-projects)
+      * [Airfoil Performance](#airfoil-performance)
+      * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
 
    * Specific Tools:
       * [Reinforcement Learning](#micro-grids-project)
