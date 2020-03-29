@@ -7,13 +7,14 @@
    * [Table of Contents](#table-of-contents)
 
    * Specific Tools:
-      * [Reinforcement Learning](#Micro-Grids-Project)
-      * [Deep Learning Regression](#CFD-Machine-Learning-Module)
-      * [Machine Learning Regression](#CFD-Machine-Learning-Module)
-      * [Data Visualization](#Airfoil-Performance)
-      * [Data Manipulation](#Promoting-Energy-and-Economic-Empowerment-with-Python)
-      * [Automation](#Airfoil-Performance)
+      * [Reinforcement Learning](#micro-grids-project)
+      * [Deep Learning Regression](#cfd-machine-learning-module)
+      * [Machine Learning Regression](#cfd-machine-learning-module)
+      * [Data Visualization](#airfoil-performance)
+      * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
+      * [Automation](#airfoil-performance)
       * [Tests](#tests)
+
 
 <!--te-->
 
