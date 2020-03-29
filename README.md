@@ -147,7 +147,4 @@ The grid independence needs to be studied in order to minimize the impact of the
 
 ### Results
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+![Gif of the Results](https://i.imgur.com/3T3feNc.gifv)
