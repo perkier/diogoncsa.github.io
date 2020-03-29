@@ -148,3 +148,8 @@ The grid independence needs to be studied in order to minimize the impact of the
 ### Results
 
 ![Gif of the Results](https://i.imgur.com/3T3feNc.gif)
+
+
+---
+
+I welcome feedback and suggestions! I’d love to hear from you about new ideas on how to implement innovative engineering. Contact me at diogoncsa@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diogoncsa/).
