@@ -18,11 +18,23 @@ We can draw a line between the number of watts hour consumed during a time perio
 Renewable energies can be a great way to empower new generations of people. Saving, at average, 620€ per year can be a big leap forward in people’s lives and with smart investments, the money saved on the electrical bill can become a game changer to entrepreneurs and companies.
 
 
-## PROJECT 1
+## CFD Machine Learning Module
 
+Computational Fluid Dynamics (CFD) is (...). Such precision and complexity requires computational time. With enough data it is possible to generalize the previous simulations to other cases. I built a module that makes easier for a team to predict the other results of CFD simulations.
+
+A module that does:
+Pre-Processing of the data such as reading and compiling the data, feature scaling, splitting the data, defining training sets, etc. ;
+Chooses the best Machine Learning Module to use and choses the best hyper parameters to use;
+Interprets the data from the hyperparameters selection;
+Creates a Machine Learning Playground where the data is fitted in a selected model (this model can be selected or choosen automaticly via the module calculations);
+Tests the data and gives visual comparisson with previous simulation results;
+ 
 A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
 
 ### Tools Used
+Coded in python and used Data-Science libraries such as pandas and numpy, machine learning libraries sklearn and ngboost and Deep Learning library Tensorflow.
+
+
 
 ### Results
 
