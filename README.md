@@ -22,9 +22,6 @@
 # Energy Related projects
 I am a climate activist. (...)
 
-Energy Related projects
-=================
-
 
 ## Promoting Energy and Economic Empowerment with Python
 
