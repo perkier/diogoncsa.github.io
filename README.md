@@ -41,9 +41,7 @@ I created a tool to do solar power simulations over a 20 year time and tested it
 
 The report was published by [Towards Data Science](https://github.com/).
 
-This report can be useful by consumers or companies.
-
-The most important parts of the code can be viewed [here](https://github.com/perkier/Perkier.Energy). The code can be found 
+The most important parts of the code can be viewed [here](https://github.com/perkier/Perkier.Energy).
 
 ### Tools Used
 - Code written in python 
