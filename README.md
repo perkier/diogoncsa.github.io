@@ -95,7 +95,7 @@ A module that does:
 - Coded in python 
 - Data-Science libraries such as pandas and numpy
 - Machine learning libraries sklearn and ngboost 
-- Deep Learning library Tensorflow.
+- Deep Learning library Tensorflow and Keras.
 
 
 ### Results
