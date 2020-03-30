@@ -13,7 +13,9 @@
 
    * [Marketing Projects:](#marketing-projects)
       * [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
+      
       &nbsp;
+      
    * Specific Tools:
       * [Automation](#airfoil-performance)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
