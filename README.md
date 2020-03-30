@@ -6,6 +6,7 @@
       * [Promoting Energy and Economic Empowerment with Python](#promoting-energy-and-economic-empowerment-with-python)
       * [Reinforcement Learning](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
+      * [Data Science in Heat Transfer](#heating-fluid-selection)
 <!--te-->
 
 
@@ -32,8 +33,9 @@
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
       * [Natural Language Processing](#twitter-sentiment-analysis)
+      * [Polynomial Regression Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
-      * [Tests](#tests)
+      * [Unit-Testing](#tests)
       
       &nbsp;
 
@@ -120,6 +122,24 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 ### Results
 
 
+## Heating Fluid Selection
+
+Data Science tools to handle and prepare the data; Linear Regression; Polinomial Regression;
+
+### Project Info
+Not ready yet
+ 
+A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
+
+### Used Tools 
+- Coded in python;
+- Data-Science libraries such as pandas and numpy;
+- Machine learning libraries sklearn;
+- (...);
+
+
+
+### Results
 
 
 ---
