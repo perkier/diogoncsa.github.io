@@ -4,7 +4,7 @@
 <!--ts-->
    * [Energy Related projects:](#energy-related-projects)
       * [Promoting Energy and Economic Empowerment with Python](#promoting-energy-and-economic-empowerment-with-python)
-      * [Reinforcement Learning](#micro-grids-project)
+      * [Micro-Grids Project](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
       * [Data Science in Heat Transfer](#heating-fluid-selection)
 <!--te-->
