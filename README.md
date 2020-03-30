@@ -167,9 +167,9 @@ The grid independence needs to be studied in order to minimize the impact of the
 
 ---
 
-# Aeronautics Projects
+# Marketing Projects
 
-Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
+Maerketing is (...). 
 
 ## Twitter Sentiment Analysis
 Data exploration and analysis; Deep Learning Classification; Natural Language Processing;
