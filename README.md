@@ -10,6 +10,10 @@
    * [Aeronautics Projects:](#aeronautics-projects)
       * [Airfoil Performance](#airfoil-performance)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
+      
+   * [Marketing Projects:](#marketing-projects)
+      * [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
+      * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
 
    * Specific Tools:
       * [Reinforcement Learning](#micro-grids-project)
@@ -17,6 +21,8 @@
       * [Machine Learning Regression](#cfd-machine-learning-module)
       * [Data Visualization](#airfoil-performance)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
+      * [Deep Learning Classification](#twitter-sentiment-analysis)
+      * [Natural Language Processing](#twitter-sentiment-analysis)
       * [Automation](#airfoil-performance)
       * [Tests](#tests)
 
@@ -151,6 +157,35 @@ The grid independence needs to be studied in order to minimize the impact of the
 ### Results
 
 ![Gif of the Results](https://i.imgur.com/3T3feNc.gif)
+
+
+---
+
+# Aeronautics Projects
+
+Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
+
+## Twitter Sentiment Analysis
+Data exploration and analysis; Deep Learning Classification; Natural Language Processing;
+
+### Project Info
+
+[Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics).
+
+### Used Tools 
+
+- Coded in python;
+- Data-Science libraries such as pandas and numpy;
+- Deep Learning libraries Tensorflow;
+- Natural Language Processesing Library NLTK;
+
+### Results
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 
 
 ---
