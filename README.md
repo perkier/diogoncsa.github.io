@@ -64,7 +64,7 @@ The report was published by [Towards Data Science](https://github.com/).
 
 The most important parts of the code can be viewed [here](https://github.com/perkier/Perkier.Energy).
 
-### Used Tools 
+### Technologies Used
 - Code written in python 
 - Data-Science libraries such as Pandas, sklearn and numpy, 
 - Solar PV library PVlib; 
@@ -93,7 +93,7 @@ A module that does:
 4. Creates a Machine Learning Playground where the data is fitted in a selected model (this model can be selected or choosen automaticly via the module calculations);
 5. Tests the data and gives visual comparisson with previous simulation results;
 
-### Used Tools 
+### Technologies Used
 - Coded in python 
 - Data-Science libraries such as pandas and numpy
 - Machine learning libraries sklearn and ngboost 
@@ -113,7 +113,7 @@ Not ready yet
  
 A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
 
-### Used Tools 
+### Technologies Used
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
 - Machine learning libraries sklearn;
@@ -133,7 +133,7 @@ Not ready yet
  
 A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
 
-### Used Tools 
+### Technologies Used
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
 - Machine learning libraries sklearn;
@@ -165,7 +165,7 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 
 
 
-### Used Tools 
+### Technologies Used
 
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
@@ -183,7 +183,7 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 
 
 ## CFD Result Analysis - Mesh Independance 
-Data exploration and analysis;
+Data exploration and analysis; Data Visualisation;
 
 ### Project Info
 
@@ -191,7 +191,7 @@ The grid independence needs to be studied in order to minimize the impact of the
 
 [Mesh Independance script](https://github.com/perkier/CFD/blob/master/Result_Analysis/Mesh_Independance_Analysis.py) compares a user-defined parameter (e.g. velocity) between the denser mesh and the original mesh. Finite Volumes techniques were used to approximate the denser mesh with the original one, as the coordinates of each cell varied between the meshes.
 
-### Used Tools 
+### Technologies Used
 
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
@@ -215,7 +215,7 @@ Data exploration and analysis; Deep Learning Classification; Natural Language Pr
 
 [Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics).
 
-### Used Tools 
+### Technologies Used
 
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
