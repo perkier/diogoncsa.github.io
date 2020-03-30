@@ -20,7 +20,6 @@
    * [Marketing Projects:](#marketing-projects)
       * [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 <!--te-->      
-
 ### 
   
 <!--ts-->
