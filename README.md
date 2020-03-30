@@ -25,6 +25,7 @@
 <!--ts-->
    * Search by Technologies:
       * [Automation](#airfoil-performance)
+      * [Data Augmentation](#cfd-machine-learning-module)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
       * [Data Visualization](#airfoil-performance)
       * [Deep Learning Classification](#twitter-sentiment-analysis)
