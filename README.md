@@ -16,15 +16,18 @@
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
 
    * Specific Tools:
-      * [Reinforcement Learning](#micro-grids-project)
+      * [Automation](#airfoil-performance)
+      * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
+      * [Data Visualization](#airfoil-performance)
+      * [Deep Learning Classification](#twitter-sentiment-analysis)
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
-      * [Data Visualization](#airfoil-performance)
-      * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
-      * [Deep Learning Classification](#twitter-sentiment-analysis)
       * [Natural Language Processing](#twitter-sentiment-analysis)
-      * [Automation](#airfoil-performance)
+      * [Reinforcement Learning](#micro-grids-project)
       * [Tests](#tests)
+      
+      
+      
 
 [Contacts](#lets-talk)
 
