@@ -6,16 +6,21 @@
       * [Promoting Energy and Economic Empowerment with Python](#promoting-energy-and-economic-empowerment-with-python)
       * [Reinforcement Learning](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
-
+      
+      &nbsp;
 
    * [Aeronautics Projects:](#aeronautics-projects)
       * [Airfoil Performance](#airfoil-performance)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
+      
+      &nbsp;
 
 
    * [Marketing Projects:](#marketing-projects)
       * [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
+      
+      &nbsp;
 
 
    * Specific Tools:
@@ -28,16 +33,15 @@
       * [Natural Language Processing](#twitter-sentiment-analysis)
       * [Reinforcement Learning](#micro-grids-project)
       * [Tests](#tests)
+      
+      &nbsp;
 
 
 [Contacts](#lets-talk)
 
 <!--te-->
 
-<pre>
-
-
-</pre>
+&nbsp;&nbsp;
 
 ---
 
