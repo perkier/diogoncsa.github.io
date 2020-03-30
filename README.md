@@ -25,10 +25,10 @@
   
 <!--ts-->
    * Search by Technologies:
-      * [Automation](#airfoil-performance)
+      * [Automation](#airfoil-performance-and-range)
       * [Data Augmentation](#cfd-machine-learning-module)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
-      * [Data Visualization](#airfoil-performance)
+      * [Data Visualization](#airfoil-performance-and-range)
       * [Deep Learning Classification](#twitter-sentiment-analysis)
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
@@ -36,6 +36,7 @@
       * [Natural Language Processing](#twitter-sentiment-analysis)
       * [Polynomial Regression Curve Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
+      * [Simulation](#airfoil-performance-and-range)
       * [Unit-Testing](#tests)
       
       &nbsp;
@@ -150,18 +151,28 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
 
 ## Airfoil Performance and Range
-Data exploration and analysis; Automation;
+Data exploration and analysis; Automation; Simulation;
 
 ### Project Info
 
-[Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics).
+[Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics) is a Python Package to:
+- Automate the mesh creation process in ICEM CFD;
+- Prepare journal files automaticly to be ran in ANSYS FLUENT;
+- Data visualization of the results (Lift and Drag);
+- Simulate flight times and distances;
+
+The most interesting part of this package is the Flight Simulator. With aerodynamics parameters (Lift and Drag Coefficient) simulated in ANSYS FLUENT the resulting data files where read through a custom made pipeline and then, using mathematical modeling and simulation I created a flight simulator which measures the distances traveled by an airfoil at Constant Speed or without acceleration - the parameters had to be allways updating because the drag depends on the velocity and the velocity must be decreasing since there is no engine power - with constant wing angle or variable angle. The most important flight parameters (e.g. Weight, Wing depth and others) are fully changable.
+
+
 
 ### Used Tools 
 
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
 - Machine learning libraries sklearn;
-- (...);
+- Meshes made in ICEM CFD with python automated scripts;
+- CFD Simulations made in ANSYS FLUENT;
+
 
 ### Results
 
