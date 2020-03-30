@@ -12,7 +12,7 @@
 
 <!--ts-->
    * [Aeronautics Projects:](#aeronautics-projects)
-      * [Airfoil Performance](#airfoil-performance)
+      * [Airfoil Performance and Range](#airfoil-performance-and-range)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
 <!--te-->
 
@@ -149,7 +149,7 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 
 Since I was a kid I allways felt fascinated by planes and really fast and precise cars like F1 cars. 
 
-## Airfoil Performance 
+## Airfoil Performance and Range
 Data exploration and analysis; Automation;
 
 ### Project Info
