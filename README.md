@@ -33,7 +33,7 @@
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
       * [Natural Language Processing](#twitter-sentiment-analysis)
-      * [Polynomial Regression Fitting](#heating-fluid-selection)
+      * [Polynomial Regression Curve Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
       * [Unit-Testing](#tests)
       
