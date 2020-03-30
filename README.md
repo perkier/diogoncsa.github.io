@@ -32,6 +32,7 @@
       * [Deep Learning Classification](#twitter-sentiment-analysis)
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
+      * [Monte Carlo Method](#micro-grids-project)
       * [Natural Language Processing](#twitter-sentiment-analysis)
       * [Polynomial Regression Curve Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
