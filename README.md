@@ -13,10 +13,7 @@
 
    * [Marketing Projects:](#marketing-projects)
       * [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
-      * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
-      
       &nbsp;
-
    * Specific Tools:
       * [Automation](#airfoil-performance)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
