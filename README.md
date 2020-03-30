@@ -7,13 +7,13 @@
       * [Reinforcement Learning](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
       
-      &nbsp;
+      &ensp;
 
    * [Aeronautics Projects:](#aeronautics-projects)
       * [Airfoil Performance](#airfoil-performance)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
       
-      &nbsp;
+      &ensp;
 
 
    * [Marketing Projects:](#marketing-projects)
@@ -21,7 +21,6 @@
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
       
       &nbsp;
-
 
    * Specific Tools:
       * [Automation](#airfoil-performance)
@@ -41,7 +40,7 @@
 
 <!--te-->
 
-&nbsp;&nbsp;
+&nbsp;
 
 ---
 
