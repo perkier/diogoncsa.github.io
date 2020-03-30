@@ -7,7 +7,7 @@
       * [Reinforcement Learning](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
 <!--te-->
-### 
+
 
 <!--ts-->
    * [Aeronautics Projects:](#aeronautics-projects)
