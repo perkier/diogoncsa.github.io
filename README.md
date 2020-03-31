@@ -213,7 +213,7 @@ Data exploration and analysis; Deep Learning Classification; Natural Language Pr
 
 ### Project Info
 
-[Wings Aerodynamics](https://github.com/perkier/CFD#wings-aerodynamics).
+[Twitter Sentiment Analysis](https://github.com/perkier/Twitter-Sentiment-Analysis).
 
 ### Technologies Used
 
