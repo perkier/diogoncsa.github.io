@@ -12,7 +12,7 @@
 
 <!--ts-->
    * [Aeronautics Projects:](#aeronautics-projects)
-      * [Airfoil Performance and Range](#airfoil-performance-and-range)
+      * [Airfoil Performance and Range - Flight Simulator](#airfoil-performance-and-range)
       * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
 <!--te-->
 
