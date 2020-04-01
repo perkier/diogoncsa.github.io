@@ -3,7 +3,7 @@
 
 <!--ts-->
    * [Energy Related projects:](#energy-related-projects)
-      * [Promoting Energy Empowerment - Solar Panel ROI Predictor](#promoting-energy-and-economic-empowerment-with-python)
+      * [Promoting Energy Empowerment - Solar Panels ROI Predictor](#promoting-energy-and-economic-empowerment-with-python)
       * [Micro-Grids Project - Solar Energy Simulator](#micro-grids-project)
       * [CFD Machine Learning Module](#cfd-machine-learning-module)
       * [Data Science in Heat Transfer](#heating-fluid-selection)
