@@ -104,8 +104,13 @@ A module that does:
 - Deep Learning library Tensorflow and Keras.
 
 
+### Data Augmentation
+Since a CFD simulation takes a long time to perform (on this project 30-45 minutes but it can takes long hours) there is a need to increase the number of data points to get better predictions from the machine learning algorithm. With thermodinamical properties there was an augmentation of more than 1000% (10 times more data points were created) without losing or creating any misleading information.
+
+
 ### Results
 The library and the results of this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
+
 
 
 ## Micro-Grids Project
