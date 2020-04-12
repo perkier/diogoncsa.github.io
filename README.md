@@ -195,7 +195,7 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 #{:height="35%" width="100%"} - Use this on images
 
 
-## CFD Result Analysis - Mesh Independance 
+## CFD Results Analysis
 Data exploration and analysis; Data Visualisation;
 
 ### Project Info
