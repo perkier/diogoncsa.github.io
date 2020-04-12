@@ -133,7 +133,7 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 Data Science tools to handle and prepare the data; Linear Regression; Polinomial Regression;
 
 ### Project Info
-Developed Dana analysis tool to automate part of the fluid selection as well as give tools to better visualize and understand several data parameters. 
+Developed Data analysis tool to automate part of the fluid selection as well as give tools to better visualize and understand several data parameters. 
 
 With results from EES or any other thermal simulation program, it is now possible to have a better understanding of even more data parameters, thus the selection of the working fluid can be augmented testing every possible fluids on the simulation database.
 
