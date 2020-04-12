@@ -84,7 +84,7 @@ Renewable energies can be a great way to empower new generations of people. Savi
 Data Science tools to handle and prepare the data; Machine Learning Regression; Deep Learning Regression;
 
 ### Project Info
-Computational Fluid Dynamics (CFD) is (...). Such precision and complexity requires computational time. With enough data it is possible to generalize the previous simulations to other cases. I built a module that makes easier for a team to predict the other results of CFD simulations.
+Computational Fluid Dynamics (CFD) is (...). Such precision and complexity requires computational time. With enough data it is possible to generalize the previous simulations to other cases. I built a module that makes easier for a team to predict the other results of CFD simulations. The CFD Machine Learning Module is part of an extensive Thermal package developed to be used in [INEGI](https://inegi.up.pt/), starting with the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project.
 
 A module that does:
 1. Pre-Processing of the data such as reading and compiling the data, feature scaling, splitting the data, defining training sets, etc. ;
@@ -101,7 +101,7 @@ A module that does:
 
 
 ### Results
-
+The library and the results of this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
 
 
 ## Micro-Grids Project
