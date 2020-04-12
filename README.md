@@ -13,7 +13,7 @@
 <!--ts-->
    * [Aeronautics Projects:](#aeronautics-projects)
       * [Airfoil Performance and Range - Flight Simulator](#airfoil-performance-and-range)
-      * [CFD Result Analysis - Mesh Independance](#cfd-result-analysis---mesh-independance)
+      * [CFD Result Analysis](#cfd-result-analysis)
 <!--te-->
 
 
@@ -26,9 +26,9 @@
 <!--ts-->
    * Search by Technologies:
       * [Automation](#airfoil-performance-and-range)
-      * [Data Augmentation](#cfd-machine-learning-module)
+      * [Data Augmentation](#cfd-result-analysis)
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
-      * [Data Visualization](#airfoil-performance-and-range)
+      * [Data Visualization](#cfd-result-analysis)
       * [Deep Learning Classification](#twitter-sentiment-analysis)
       * [Deep Learning Regression](#cfd-machine-learning-module)
       * [Machine Learning Regression](#cfd-machine-learning-module)
