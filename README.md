@@ -149,7 +149,7 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 Able to automate parts of the process the fluid is selected, increasing the number of fluids that could be selected and created automated data visualization and correlation tools to help with the decision process.
 
 
-![Different Plots Possible to make](https://imgur.com/KKOCZOl.gif){:height="35%" width="100%"}
+![Different Plots Possible to make](https://imgur.com/KKOCZOl.gif)
 
 ---
 
@@ -187,6 +187,8 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+#{:height="35%" width="100%"} - Use this on images
 
 
 ## CFD Result Analysis - Mesh Independance 
