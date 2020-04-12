@@ -133,20 +133,23 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 Data Science tools to handle and prepare the data; Linear Regression; Polinomial Regression;
 
 ### Project Info
-Not ready yet
- 
-A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
+Developed Dana analysis tool to automate part of the fluid selection as well as give tools to better visualize and understand several data parameters. 
+
+With results from EES or any other thermal simulation program, it is now possible to have a better understanding of even more data parameters, thus the selection of the working fluid can be augmented testing every possible fluids on the simulation database.
 
 ### Technologies Used
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
 - Machine learning libraries sklearn;
-- (...);
+- Data Visualization using Matplotlib library;
 
 
 
 ### Results
-Able to automate parts of the process the fluid is selected, increasing the number of fluids that could be selected and created automated data visualization and correlation tools to help with the decision process.
+Able to automate parts of the process the fluid is selected, increasing the number of fluids that could be selected;
+Automated data visualization and correlation tools to help with the decision process;
+Forbidden fluids such as CFD and some HFC can be eliminated from the results;
+The code used on this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
 
 
 ![Different Plots Possible to make](https://imgur.com/KKOCZOl.gif)
