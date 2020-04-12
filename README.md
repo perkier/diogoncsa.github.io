@@ -104,18 +104,6 @@ A module that does:
 - Deep Learning library Tensorflow and Keras.
 
 
-### Data Augmentation
-Since a CFD simulation takes a long time to perform (on this project 30-45 minutes but it can takes long hours) there is a need to increase the number of data points to get better predictions from the machine learning algorithm. With thermodinamical properties there was an augmentation of more than 1000% (10 times more data points were created) without losing or creating any misleading information.
-
-[Data Augmentation Example](https://i.imgur.com/8xb9Jpj.png)
-
-
-### 3-D Plots
-Other important feature is the possibility to do plots in 3-D. Since this specific application behaves in a three dimentional way, visualizing the data in 3-D is essential:
-
-[3D Plot Example](https://imgur.com/NggoLxI.png)
-
-
 ### Results
 The library and the results of this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
 
@@ -212,9 +200,7 @@ Data exploration and analysis; Data Visualisation;
 
 ### Project Info
 
-The grid independence needs to be studied in order to minimize the impact of the grid size on discretization errors and computational cost. The grid size needs to be optimized to be small enough to guarantee that the results are independent of the mesh. The usual process is to increase 20-25% the mesh cells and compare the final flow results, defining an error-margin (normally 1-2%). However, there is no way to know where the difference is.
-
-[Mesh Independance script](https://github.com/perkier/CFD/blob/master/Result_Analysis/Mesh_Independance_Analysis.py) compares a user-defined parameter (e.g. velocity) between the denser mesh and the original mesh. Finite Volumes techniques were used to approximate the denser mesh with the original one, as the coordinates of each cell varied between the meshes.
+TBA
 
 ### Technologies Used
 
@@ -222,10 +208,27 @@ The grid independence needs to be studied in order to minimize the impact of the
 - Data-Science libraries such as pandas and numpy;
 - Finite Volumes method;
 
-### Results
+### Mesh Independance
+
+The grid independence needs to be studied in order to minimize the impact of the grid size on discretization errors and computational cost. The grid size needs to be optimized to be small enough to guarantee that the results are independent of the mesh. The usual process is to increase 20-25% the mesh cells and compare the final flow results, defining an error-margin (normally 1-2%). However, there is no way to know where the difference is.
+
+[Mesh Independance script](https://github.com/perkier/CFD/blob/master/Result_Analysis/Mesh_Independance_Analysis.py) compares a user-defined parameter (e.g. velocity) between the denser mesh and the original mesh. Finite Volumes techniques were used to approximate the denser mesh with the original one, as the coordinates of each cell varied between the meshes.
 
 ![Gif of the Results](https://i.imgur.com/3T3feNc.gif)
 
+
+### Data Augmentation
+
+Since a CFD simulation takes a long time to perform (on this project 30-45 minutes but it can takes long hours) there is a need to increase the number of data points to get better predictions from the machine learning algorithm. With thermodinamical properties there was an augmentation of more than 1000% (10 times more data points were created) without losing or creating any misleading information.
+
+[Data Augmentation Example](https://i.imgur.com/8xb9Jpj.png)
+
+
+### 3-D Plots
+
+Other important feature is the possibility to do plots in 3-D. Since this specific application behaves in a three dimentional way, visualizing the data in 3-D is essential:
+
+[3D Plot Example](https://imgur.com/NggoLxI.png)
 
 ---
 
