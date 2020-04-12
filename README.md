@@ -115,12 +115,12 @@ Data Science tools to handle and prepare the data; Monte Carlo Method Optimizati
 ### Project Info
 Not ready yet
  
-A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher School of Economics](https://www.coursera.org/learn/language-processing/home/welcome).
 
 ### Technologies Used
 - Coded in python;
 - Data-Science libraries such as pandas and numpy;
 - Machine learning libraries sklearn;
+- Deep learning libraries Keras;
 - (...);
 
 
