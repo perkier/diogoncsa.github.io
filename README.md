@@ -13,7 +13,7 @@
 <!--ts-->
    * [Aeronautics Projects:](#aeronautics-projects)
       * [Airfoil Performance and Range - Flight Simulator](#airfoil-performance-and-range)
-      * [CFD Result Analysis](#cfd-result-analysis)
+      * [CFD Results Analysis](#cfd-results-analysis)
 <!--te-->
 
 
