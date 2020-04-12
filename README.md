@@ -34,10 +34,12 @@
       * [Machine Learning Regression](#cfd-machine-learning-module)
       * [Monte Carlo Method](#micro-grids-project)
       * [Natural Language Processing](#twitter-sentiment-analysis)
+      * [Python Package](#tests)
       * [Polynomial Regression Curve Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
       * [Simulation](#airfoil-performance-and-range)
       * [Unit-Testing](#tests)
+      
       
       &nbsp;
 
