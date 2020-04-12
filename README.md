@@ -148,7 +148,8 @@ A conversational chatbot in [telegram](http://t.me/)  [nlp course by Higher Scho
 ### Results
 Able to automate parts of the process the fluid is selected, increasing the number of fluids that could be selected and created automated data visualization and correlation tools to help with the decision process.
 
-![Different Plots Possible to make](https://i.imgur.com/D4WLXvj.png){:height="20%" width="100%"}
+" ![Different Plots Possible to make](https://i.imgur.com/D4WLXvj.png){:height="20%" width="100%"} "
+![Different Plots Possible to make](https://media.giphy.com/media/SSKqmu4SfUDvQwRkdl/giphy.gif)
 
 ---
 
