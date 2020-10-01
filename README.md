@@ -5,7 +5,7 @@
    * [Energy Related projects:](#energy-related-projects)
       * [Promoting Energy Empowerment - Solar Panels ROI Predictor](#promoting-energy-and-economic-empowerment-with-python)
       * [Micro-Grids Project - Solar Energy Simulator](#micro-grids-project)
-      * [CFD Machine Learning Module](#cfd-machine-learning-module)
+      * [CFD Deep Learning Module](#cfd-deep-learning-module)
       * [Data Science in Heat Transfer](#heating-fluid-selection)
 <!--te-->
 
@@ -30,15 +30,16 @@
       * [Data Manipulation](#promoting-energy-and-economic-empowerment-with-python)
       * [Data Visualization](#cfd-result-analysis)
       * [Deep Learning Classification](#twitter-sentiment-analysis)
-      * [Deep Learning Regression](#cfd-machine-learning-module)
-      * [Machine Learning Regression](#cfd-machine-learning-module)
+      * [Deep Learning Regression](#cfd-deep-learning-module)
+      * [Digital-Twin](#cfd-deep-learning-module)
+      * [Machine Learning Regression](#cfd-deep-learning-module)
       * [Monte Carlo Method](#micro-grids-project)
       * [Natural Language Processing](#twitter-sentiment-analysis)
       * [Python Package](#tba)
       * [Polynomial Regression Curve Fitting](#heating-fluid-selection)
       * [Reinforcement Learning](#micro-grids-project)
       * [Simulation](#airfoil-performance-and-range)
-      * [Unit-Testing](#tba)
+      
       
       
       &nbsp;
@@ -81,7 +82,7 @@ We can draw a line between the number of watts hour consumed during a time perio
 Renewable energies can be a great way to empower new generations of people. Saving, at average, 620€ per year can be a big leap forward in people’s lives and with smart investments, the money saved on the electrical bill can become a game changer to entrepreneurs and companies.
 
 
-## CFD Machine Learning Module 
+## CFD Deep Learning Module 
 
 Data Science tools to handle and prepare the data; Machine Learning Regression; Deep Learning Regression;
 
@@ -97,15 +98,20 @@ A module that does:
 4. Creates a Machine Learning Playground where the data is fitted in a selected model (this model can be selected or choosen automaticly via the module calculations);
 5. Tests the data and gives visual comparisson with previous simulation results;
 
+The results of this project will be published in an energy scientific journal under the name of "Conclude the Iterative Ejector’s Solar Cooling Cycle Modelling with Deep Learning Digital Twin"
+
 ### Technologies Used
 - Coded in python 
 - Data-Science libraries such as pandas and numpy
 - Machine learning libraries sklearn and ngboost 
 - Deep Learning library Tensorflow and Keras.
+- Digital Twin
 
 
 ### Results
-The library and the results of this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
+The library and full results of this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
+
+![Some Results Error Comparisson](https://i.imgur.com/hKuxsBW.png)
 
 
 
