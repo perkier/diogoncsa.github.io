@@ -235,33 +235,6 @@ Other important feature is the possibility to do plots in 3-D. Since this specif
 
 ![3D Plot Example](https://imgur.com/NggoLxI.png)
 
----
-
-# Marketing Projects
-
-Maerketing is (...). 
-
-## Twitter Sentiment Analysis
-Data exploration and analysis; Deep Learning Classification; Natural Language Processing;
-
-### Project Info
-
-[Twitter Sentiment Analysis](https://github.com/perkier/Twitter-Sentiment-Analysis).
-
-### Technologies Used
-
-- Coded in python;
-- Data-Science libraries such as pandas and numpy;
-- Deep Learning libraries Tensorflow;
-- Natural Language Processesing Library NLTK;
-
-### Results
-
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
 
 
 ---
