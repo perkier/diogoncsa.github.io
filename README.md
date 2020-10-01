@@ -120,7 +120,11 @@ The library and full results of this project can only be revelead when the [Hybr
 Data Science tools to handle and prepare the data; Monte Carlo Method Optimization; Deep Reinforcement Learning;
 
 ### Project Info
-Not ready yet
+- Using Python, solar (PVlib) and datascience libraries (including pandas, sklearn
+and numpy);
+- Using Kaggle London Energy consumption database (over 100 million data points);
+- Determined the energy gains of a consumer with solar panels (or not) and compared it with their energy consumption and based on the balance the consumer would sell or buy energy to the grid or even if store energy to the batteries;
+-  Ecosystem of 2-30 consumers(expandable);
  
 
 ### Technologies Used
@@ -133,7 +137,7 @@ Not ready yet
 
 
 ### Results
-
+Not ready yet
 
 ## Heating Fluid Selection
 
@@ -193,12 +197,7 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 
 ### Results
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
-
-#{:height="35%" width="100%"} - Use this on images
+![Gif of the Results](https://i.imgur.com/auL9304.gif)
 
 
 ## CFD Results Analysis
