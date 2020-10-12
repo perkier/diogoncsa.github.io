@@ -53,7 +53,7 @@
 
 
 # Energy Related Projects
-I am a climate activist. (...)
+I am an energy engineer and climate activist. Using Data to help solve some of our generation's most urgent problems always sparked my attention.
 
 
 ## Promoting Energy and Economic Empowerment with Python
