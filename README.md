@@ -197,7 +197,7 @@ The most interesting part of this package is the Flight Simulator. With aerodyna
 
 ### Results
 
-![Gif of the Results](https://i.imgur.com/auL9304.gif)
+![Gif of the Results](https://i.imgur.com/xgFNnDH.gif)
 
 
 ## CFD Results Analysis
