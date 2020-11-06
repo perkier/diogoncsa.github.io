@@ -165,10 +165,6 @@ The code used on this project can only be revelead when the [Hybrid Bio VGE](htt
 
 ![Power Plots](https://i.imgur.com/ae2R3XU.gif)
 
-[img]https://i.imgur.com/ae2R3XU.gif[/img]
-
-![img]https://i.imgur.com/ae2R3XU.gif[/img]
-
 
 ![Different Plots Possible to make](https://imgur.com/KKOCZOl.gif)
 
