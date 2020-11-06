@@ -163,9 +163,9 @@ Forbidden fluids such as CFD and some HFC can be eliminated from the results;
 The code used on this project can only be revelead when the [Hybrid Bio VGE](https://hybrid-biovge.inegi.up.pt/) project is concluded.
 
 
-![Power Plots](https://imgur.com/a/VdLr7X2.gif)
+![Power Plots](https://imgur.com/a/ws95wQT.gif)
 
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ws95wQT"  ><a href="//imgur.com/a/ws95wQT">power plots</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ![Different Plots Possible to make](https://imgur.com/KKOCZOl.gif)
